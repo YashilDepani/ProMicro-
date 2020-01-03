@@ -1,2 +1,3 @@
 # ProMicro-
-Using ProMicro , developed KeyBoard Shortcuts for cncjs main frame and shoopfloor tablet view
+ProMicro microprocessor helps to upload Arduino code for spefically defined KeyBoard shortcuts.
+This shortcuts works for both cncjs main Frame and shoopfloor tablet view.
